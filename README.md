@@ -28,6 +28,10 @@ We don't rely on speculative "hype-printing." The economy is backed by a dedicat
 
 ---
 
+##  Latest Devlogs
+* **[Oct 11, 2026]** [Devlog #001: Hello](./devlogs/2026-10-11-devlog-001.md)
+
+
 ## Join the Club
 * **Twitch:** It will be available later.
 * **YouTube (Devlogs):** It will be available later.
